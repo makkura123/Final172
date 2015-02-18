@@ -1,0 +1,10 @@
+Potion			10			20
+SuperPotion 	18          40
+HyperPotion		30			80
+Sword			20			10
+Staff			10			5
+Bow&Arrow		15			8
+DragonEgg		50			50
+WitchScab		90			100
+PhoenixFeather	25			50
+SodexoMeal		5			75
